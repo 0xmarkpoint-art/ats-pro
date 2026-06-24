@@ -1,0 +1,8 @@
+{
+  "name": "ATS Pro Resume Bundle",
+  "description": "High-converting single-page sales website for ATS Pro Resume Bundle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
